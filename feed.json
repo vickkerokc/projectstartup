@@ -1,0 +1,13 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "ProjectStartup.Life",
+    "description": "",
+    "home_page_url": "https://vickkerokc.github.io/projectstartup",
+    "feed_url": "https://vickkerokc.github.io/projectstartup/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Vicki Langford"
+    },
+    "items": [
+    ]
+}
